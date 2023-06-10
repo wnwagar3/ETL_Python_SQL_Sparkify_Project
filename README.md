@@ -1,3 +1,5 @@
+# This project was part of the Udactiy Data Analyst nanodegree program.
+
 # Introduction
 
 - The goal of this project is to create an ETL pipeline for a startup called 'Sparkify' so the analytics team can analyze date on songs and user activity. The company would like a data engineer to create a database, specifically using Postgres, with tables designed to optimize queries for various searches. Currently, there is no standardized, efficient way to query their data. 
